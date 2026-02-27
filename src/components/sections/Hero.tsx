@@ -18,9 +18,6 @@ export default function Hero() {
             {/* Text content */}
             <AnimateOnScroll direction="left">
               <div className="max-w-xl">
-                <p className="mb-4 text-sm font-medium uppercase tracking-wider text-decidel-orange">
-                  AI-Powered Hacker News Client for iOS
-                </p>
                 <h1 className="text-4xl font-bold leading-tight tracking-tight text-white sm:text-5xl lg:text-6xl">
                   The smartest way to read{" "}
                   <span className="text-decidel-orange">Hacker News</span>
