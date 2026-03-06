@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Decidel — AI-Powered Hacker News Client",
     description:
-      "Save 30+ minutes daily with Smart Mute, AI summaries, and offline reading bundles.",
+      "Save 30+ minutes daily with Smart Mute, AI summaries, and offline reading bundles",
     url: "https://decidel.app",
     siteName: "Decidel",
     type: "website",
