@@ -1,6 +1,7 @@
 import Hero from "@/components/sections/Hero";
 import FeatureShowcase from "@/components/sections/FeatureShowcase";
 import FeatureGrid from "@/components/sections/FeatureGrid";
+import PrivacyByDesign from "@/components/sections/PrivacyByDesign";
 import PricingCards from "@/components/sections/PricingCards";
 import CtaBanner from "@/components/sections/CtaBanner";
 import { showcaseFeatures } from "@/lib/features";
@@ -45,6 +46,8 @@ export default function Home() {
       />
 
       <FeatureGrid />
+
+      <PrivacyByDesign elevated />
 
       <PricingCards elevated />
 

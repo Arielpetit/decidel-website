@@ -152,10 +152,10 @@ export default function PrivacyPage() {
               <p>
                 If you have questions about this Privacy Policy, contact us at{" "}
                 <a
-                  href="mailto:hello@decidel.app"
+                  href="mailto:decidel.app@gmail.com"
                   className="text-decidel-orange hover:underline"
                 >
-                  hello@decidel.app
+                  decidel.app@gmail.com
                 </a>
                 .
               </p>

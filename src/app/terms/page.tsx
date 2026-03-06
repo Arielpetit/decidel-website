@@ -162,10 +162,10 @@ export default function TermsPage() {
               <p>
                 For questions about these Terms, contact us at{" "}
                 <a
-                  href="mailto:hello@decidel.app"
+                  href="mailto:decidel.app@gmail.com"
                   className="text-decidel-orange hover:underline"
                 >
-                  hello@decidel.app
+                  decidel.app@gmail.com
                 </a>
                 .
               </p>
